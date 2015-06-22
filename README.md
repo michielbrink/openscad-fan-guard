@@ -4,3 +4,7 @@ You can use this script to generate a fan grill so you can lasercut awesome hole
 To use your fan in you project, export your grill to DXF in openscad.
 
 If you want to use the circle option (like circles.bmp) you have to delete the outermost line in the DXF because otherwise your are cutter the whole object out of your project.
+
+![ScreenShot](https://raw.githubusercontent.com/michielbrink/openscad-fan-grill/master/pictures/circles.bmp)
+![ScreenShot](https://raw.githubusercontent.com/michielbrink/openscad-fan-grill/master/pictures/holes.bmp)
+![ScreenShot](https://raw.githubusercontent.com/michielbrink/openscad-fan-grill/master/pictures/none.bmp)
