@@ -20,7 +20,7 @@ diameter = 86;
 screwhole = 4.8; 
 
 //effect vars
-    //holes:
+    //circles:
         circlesThickness = 5;
         circlesDistance = 5;
         circlesCrossThickness = 5;
